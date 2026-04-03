@@ -1,6 +1,9 @@
 # Indoor_plant-_health-detection
 Built a machine learning model to predict plant health using environmental data.
+
+
 Optimized model reliability using Stratified 5-Fold Cross-Validation and feature-importance visualizations
+
 This repository contains a machine learning project designed to predict the Health Score of indoor plants based on environmental factors, maintenance routines, and physical observations. The core of the project is a CatBoost Multiclass Classifier implemented in a Jupyter Notebook, optimized for handling both categorical and numerical sensor-like data.
 
 📋 Project Overview
