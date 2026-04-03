@@ -1,2 +1,3 @@
 # Indoor_plant-_health-detection
-created a ml model fro indoor plant health detection using catboost , scikit-learn , stratified 5-fold cross-valdiation
+Built a machine learning model to predict plant health using environmental data.
+Optimized model reliability using Stratified 5-Fold Cross-Validation and feature-importance visualizations
